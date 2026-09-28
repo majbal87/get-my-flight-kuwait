@@ -1,0 +1,7 @@
+.venv/
+cache/
+runs/
+pages/
+evals/
+__pycache__/
+.DS_Store
